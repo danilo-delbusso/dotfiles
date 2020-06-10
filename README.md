@@ -4,7 +4,6 @@
 │   └── .bashrc
 ├── git
 │   └── .gitconfig
-├── README.Md
 └── zsh
     └── .zshrc
 ```
